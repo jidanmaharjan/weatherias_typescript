@@ -10,7 +10,6 @@ import {
   Tooltip,
 } from "chart.js";
 import moment from "moment/moment";
-import React from "react";
 import { Line } from "react-chartjs-2";
 ChartJS.register(
   Title,
